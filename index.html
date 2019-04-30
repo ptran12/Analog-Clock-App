@@ -76,8 +76,8 @@
       const now = new Date();
       const seconds = now.getSeconds();
 
-      const secondDegrees = ((seconds / 60)* 360);
-   
+      const secondsDegrees = ((seconds / 60)* 360) + 90;
+      secHand.style.transform = `rotate(${secondsDegrees}deg)`;
 
     }
 
