@@ -1,6 +1,9 @@
 # Analog-Clock-App
 <p align="center">
 This is an Analog Clock App that uses HTML, CSS, and JavaScript.
+</p>
+<p align="center">
+<b>Live link</b>: https://ptran12.github.io/Analog-Clock-App/
  </p>
 
 <p align="center">
